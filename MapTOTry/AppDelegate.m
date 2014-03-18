@@ -18,6 +18,8 @@
     
     NSLog(@"我是3月18号来打酱油的");
     
+    NSLog(@"只是为了证明我是testBranch");
+    
     return YES;
 }
 							

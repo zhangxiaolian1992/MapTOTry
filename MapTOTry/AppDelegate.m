@@ -14,6 +14,10 @@
 {
     // Override point for customization after application launch.
     NSLog(@"我只是来测试打酱油的");
+    
+    
+    NSLog(@"我是3月18号来打酱油的");
+    
     return YES;
 }
 							
